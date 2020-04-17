@@ -1,0 +1,88 @@
+export const recipes = [
+  {
+    id: 723984,
+    title: "Cabbage Salad with Peanuts",
+    readyInMinutes: 15,
+    servings: 2,
+    image: "cabbage-salad-with-peanuts-723984.jpg",
+    imageUrls: ["cabbage-salad-with-peanuts-723984.jpg"],
+  },
+  {
+    id: 584549,
+    title: "Stuffed Sweet Potato with Spinach, Hummus & Feta",
+    readyInMinutes: 16,
+    servings: 1,
+    image: "Stuffed-Sweet-Potato-with-Spinach--Hummus---Feta-584549.jpg",
+    imageUrls: ["Stuffed-Sweet-Potato-with-Spinach--Hummus---Feta-584549.jpg"],
+  },
+  {
+    id: 667917,
+    title: "Cilantro Salsa",
+    readyInMinutes: 20,
+    servings: 2,
+    image: "Cilantro-Salsa-667917.jpg",
+    imageUrls: ["Cilantro-Salsa-667917.jpg"],
+  },
+  {
+    id: 695325,
+    title: "Veggistrone",
+    readyInMinutes: 105,
+    servings: 10,
+    image: "veggistrone-695325.jpg",
+    imageUrls: ["veggistrone-695325.jpg"],
+  },
+  {
+    id: 482574,
+    title: "Slow Cooker Vegetarian Chili with Butternut Squash",
+    readyInMinutes: 250,
+    servings: 4,
+    image: "Slow-Cooker-Vegetarian-Chili-with-Butternut-Squash-482574.jpg",
+    imageUrls: [
+      "Slow-Cooker-Vegetarian-Chili-with-Butternut-Squash-482574.jpg",
+    ],
+  },
+  {
+    id: 551452,
+    title:
+      "Beef Liver with Fig, Bacon and Caramelized Onion Compote [or the ultimate beef liver ]",
+    readyInMinutes: 45,
+    servings: 2,
+    image:
+      "Beef-Liver-with-Fig--Bacon-and-Caramelized-Onion-Compote-[or-the-ultimate-beef-liver-]-551452.png",
+    imageUrls: [
+      "Beef-Liver-with-Fig--Bacon-and-Caramelized-Onion-Compote-[or-the-ultimate-beef-liver-]-551452.png",
+    ],
+  },
+  {
+    id: 537208,
+    title: "Rhubarb Strawberry Smoothie",
+    readyInMinutes: 10,
+    servings: 2,
+    image: "Rhubarb-Strawberry-Smoothie-537208.jpg",
+    imageUrls: ["Rhubarb-Strawberry-Smoothie-537208.jpg"],
+  },
+  {
+    id: 504218,
+    title: "Mexican Vegetables on Cornbread",
+    readyInMinutes: 45,
+    servings: 4,
+    image: "Mexican-Vegetables-on-Cornbread-504218.jpg",
+    imageUrls: ["Mexican-Vegetables-on-Cornbread-504218.jpg"],
+  },
+  {
+    id: 222878,
+    title: "Grilled goat's cheese with cranberry dressing",
+    readyInMinutes: 20,
+    servings: 6,
+    image: "Grilled-goats-cheese-with-cranberry-dressing-222878.jpg",
+    imageUrls: ["Grilled-goats-cheese-with-cranberry-dressing-222878.jpg"],
+  },
+  {
+    id: 222482,
+    title: "Roasted vegetable & feta tostada",
+    readyInMinutes: 30,
+    servings: 2,
+    image: "Roasted-vegetable---feta-tostada-222482.jpg",
+    imageUrls: ["Roasted-vegetable---feta-tostada-222482.jpg"],
+  },
+];
