@@ -29,7 +29,7 @@ export default class Recipe extends Component {
                 className="btn mx-2 btn-primary"
                 onClick={() => handleDetail(0, title, imgurl)}
               >
-                Detial
+                Detail
               </button>
               <a href="#" className="btn btn-success" target="-blank">
                 Recipe Url
